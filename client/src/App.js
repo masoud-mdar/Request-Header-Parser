@@ -1,6 +1,6 @@
 import React, {useState} from "react"
 import axios from "axios"
-const BASE_URL = "http://localhost:5000"
+const BASE_URL = "https://req-header-prsr.herokuapp.com"
 
 const App = () => {
     const [result, setResult] = useState({})
