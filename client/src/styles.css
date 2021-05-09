@@ -63,3 +63,21 @@
     font-size: 2rem;
     color: royalblue;
 }
+
+h1 {
+    color: rgba(255,255,255,.75);
+    margin-bottom: 45px;
+    padding: 15px;
+    letter-spacing: 2rem;
+    text-align: center;
+    font-family: "Annie Use Your Telescope";
+}
+
+.loading {
+    background-color: royalblue;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
